@@ -2,10 +2,10 @@
 session_start();
 /* DATABASE CONFIGURATION */
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'id2251689_root');
-define('DB_PASSWORD', 'raj16$deV');
-define('DB_DATABASE', 'id2251689_chat');
-define("BASE_URL", "http://talkback.000webhostapp.com/"); // Eg. http://yourwebsite.com
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', '');
+define("BASE_URL", ""); // Eg. http://yourwebsite.com
 
 
 function getDB() 
